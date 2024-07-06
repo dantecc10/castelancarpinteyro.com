@@ -15,6 +15,7 @@ Homestead.json
 Homestead.yaml
 auth.json
 bs-export.sh
+sql-backuper.sh
 npm-debug.log
 yarn-error.log
 /.fleet
